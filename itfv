@@ -1,0 +1,2 @@
+
+celestia-appd init $CELESTjgIA_NODENAME --chain-id $CELESTIA_CHAIN
